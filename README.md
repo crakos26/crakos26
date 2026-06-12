@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm crakos</h1>
 <h3 align="center">A novice webdevloper who is touching the keyboard after hiatus</h3>
 
-- 🔭 I’m currently working on **Secret MDT**
+- 🔭 I’m currently working on **TIG MDT& community discore bot**
 
 - 🌱 I’m currently learning **react, SQL, Ruby**
 
