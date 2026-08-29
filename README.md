@@ -11,7 +11,7 @@
 ---
 
 ### 🚀 À propos de moi
-- 🔭 Je travaille actuellement sur **NOM_DU_PROJET_ACTUEL**
+- 🔭 I’m currently working on **TIG MDT& community discore bot**
 - 🌱 J'apprends en ce moment **TECHNO_EN_APPRENTISSAGE**
 - 💬 Demandez-moi ce que vous voulez sur **VOS_SUJETS_DE_PREDILECTION**
 - 📫 Comment me joindre : **VOTRE_EMAIL**
