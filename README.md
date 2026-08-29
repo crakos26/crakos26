@@ -12,7 +12,7 @@
 
 ### 🚀 À propos de moi
 - 🔭 I’m currently working on **TIG MDT& community discore bot**
-- 🌱 J'apprends en ce moment **TECHNO_EN_APPRENTISSAGE**
+- 🌱 I’m currently learning **react, SQL, Ruby**
 - 💬 Demandez-moi ce que vous voulez sur **VOS_SUJETS_DE_PREDILECTION**
 - 📫 Comment me joindre : **VOTRE_EMAIL**
 
