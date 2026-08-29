@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VOTRE_PSEUDO_GITHUB&label=Visiteurs&color=39FF14&style=flat" alt="Compteur de visites"/>
+  <img src="https://komarev.com/ghpvc/?username=crakos26&label=Visiteurs&color=39FF14&style=flat" alt="Compteur de visites"/>
 </p>
 
 ---
