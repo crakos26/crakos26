@@ -24,9 +24,9 @@
   <img src="https://img.shields.io/badge/Arduino-14121f?style=for-the-badge&logo=arduino&logoColor=00979D" />
   <img src="https://img.shields.io/badge/CSS3-14121f?style=for-the-badge&logo=css3&logoColor=A6E3FF" /> 
   <img src="https://img.shields.io/badge/Figma-14121f?style=for-the-badge&logo=figma&logoColor=FFB6D9" />
-  <img src="https://img.shields.io/badge/HTML5-14121f?style=for-the-badge&logo=html5&logoColor=FF7A59" /> 
+  <img src="https://img.shields.io/badge/HTML5-14121f?style=for-the-badge&logo=html5&logoColor=FF7A59" />
   <img src="https://img.shields.io/badge/Photoshop-14121f?style=for-the-badge&logo=adobephotoshop&logoColor=A6E3FF" /> 
-  <img src="https://img.shields.io/badge/Ruby-14121f?style=for-the-badge&logo=ruby&logoColor=FFB6D9" />
+  <img src="https://img.shields.io/badge/Ruby-14121f?style=for-the-badge&logo=ruby&logoColor=FFB6D9" /> 
   <img src="https://img.shields.io/badge/Swift-14121f?style=for-the-badge&logo=swift&logoColor=FF7A59" />
   <!-- Ajoute/retire des badges selon ta stack -->
 </p>
