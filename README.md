@@ -33,32 +33,6 @@
 
 ---
 
-### 📊 Stats GitHub
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=crakos26&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crakos26&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=39FF14" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=crakos26&theme=radical&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14" />
-</p>
-
----
-
-### 📌 Projets phares
-
-<p align="left">
-  <a href="https://github.com/crakos26/bot_template_2026">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=crakos26&repo=bot_template_2026&theme=radical&hide_border=true&bg_color=0d1117&title_color=39FF14" />
-  </a>
-  <a href="LIEN_VOTRE_PROJET_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=crakos26&repo=NOM_DU_REPO_2&theme=radical&hide_border=true&bg_color=0d1117&title_color=39FF14" />
-  </a>
-</p>
-
----
-
 ### 🌐 Réseaux sociaux / Contact
 
 <p align="left">
