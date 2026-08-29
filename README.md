@@ -15,7 +15,7 @@
 - 🔭 I'm currently working on **TIG MDT& community discore bot**
 - 🌱 I'm currently learning **react, SQL, Ruby**
 - 💬 ask me anything *there is a lot I sill need to learn*
-- 📫 Comment me joindre : **VOTRE_EMAIL**
+- 📫 Comment me joindre : mon email
 
 ---
 
