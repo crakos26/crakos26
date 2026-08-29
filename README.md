@@ -13,7 +13,7 @@
 ### 🚀 À propos de moi
 - 🔭 I’m currently working on **TIG MDT& community discore bot**
 - 🌱 I’m currently learning **react, SQL, Ruby**
-- 💬 Demandez-moi ce que vous voulez sur **VOS_SUJETS_DE_PREDILECTION**
+- 💬 ask me anything *there is a lot I sill need to learn*
 - 📫 Comment me joindre : **VOTRE_EMAIL**
 
 ---
@@ -49,7 +49,7 @@
 ### 📌 Projets phares
 
 <p align="left">
-  <a href="LIEN_VOTRE_PROJET_1">
+  <a href="https://github.com/crakos26/bot_template_2026">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=crakos26&repo=bot_template_2026&theme=radical&hide_border=true&bg_color=0d1117&title_color=39FF14" />
   </a>
   <a href="LIEN_VOTRE_PROJET_2">
