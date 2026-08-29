@@ -20,14 +20,14 @@
 
 ### 🛠️ Stack & outils
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Arduino-14121f?style=for-the-badge&logo=arduino&logoColor=00979D" />
-  <img src="https://img.shields.io/badge/CSS3-14121f?style=for-the-badge&logo=css3&logoColor=A6E3FF" /> 
-  <img src="https://img.shields.io/badge/Figma-14121f?style=for-the-badge&logo=figma&logoColor=FFB6D9" />
-  <img src="https://img.shields.io/badge/HTML5-14121f?style=for-the-badge&logo=html5&logoColor=FF7A59" />
-  <img src="https://img.shields.io/badge/Photoshop-14121f?style=for-the-badge&logo=adobephotoshop&logoColor=A6E3FF" /> 
-  <img src="https://img.shields.io/badge/Ruby-14121f?style=for-the-badge&logo=ruby&logoColor=FFB6D9" /> 
-  <img src="https://img.shields.io/badge/Swift-14121f?style=for-the-badge&logo=swift&logoColor=FF7A59" />
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" /> 
   <!-- Ajoute/retire des badges selon ta stack -->
 </p>
 
