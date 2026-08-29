@@ -50,7 +50,7 @@
 
 <p align="left">
   <a href="LIEN_VOTRE_PROJET_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=crakos26&repo=NOM_DU_REPO_1&theme=radical&hide_border=true&bg_color=0d1117&title_color=39FF14" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=crakos26&repo=bot_template_2026&theme=radical&hide_border=true&bg_color=0d1117&title_color=39FF14" />
   </a>
   <a href="LIEN_VOTRE_PROJET_2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=crakos26&repo=NOM_DU_REPO_2&theme=radical&hide_border=true&bg_color=0d1117&title_color=39FF14" />
